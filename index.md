@@ -1,5 +1,5 @@
 ---
-title: Welcome to my page
+title: Welcome to my blog
 ---
 
 <div align=center>
